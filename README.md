@@ -7,3 +7,6 @@ So now I've just added test.txt and used the following commands:
 $ git add test.txt
 $ git commit test.txt
 $ git push
+
+$ git pull ; to get latest versions from repo
+If multiple files are changed how is that handled
