@@ -1,0 +1,7 @@
+This is a list of tests that need to be passed by this project:
+1) Read plain text file
+2) Read rich text file
+3) Read html file
+4) Read multipart-mime file
+5) Read attachments
+6) etc
