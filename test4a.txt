@@ -1,1 +1,2 @@
 This is the second part of a two file commit
+and this is the second commit
